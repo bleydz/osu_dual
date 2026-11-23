@@ -8,6 +8,9 @@ Both use the same mania setup; they differ only in standard and the UI.
 | **[dave]** | Selyu v2.2 | [[dave].osk](./%5Bdave%5D.osk?raw=1) |
 | **[dave] Aristia** | Aristia Edit (Varvalian 2019-06-25) | [[dave] Aristia.osk](./%5Bdave%5D%20Aristia.osk?raw=1) |
 
+> [!NOTE]
+> **[dave] Aristia:** the framed box around the playfield is hidden in mania **on osu!lazer only**. It uses a lazer-only gameplay layout, so on osu!stable the box still shows in mania.
+
 ---
 
 ## [dave]
@@ -41,7 +44,7 @@ Same mania as **[dave]** (4K/5K/6K from JOSHUA0309, plus the 7K and 9K layouts),
 
 Aristia ships its own mania judgement images, so JOSHUA's are kept in `mania/judgements/` to keep the mania look identical.
 
-This version was exported from osu!lazer with a custom gameplay layout: Aristia's framed health-bar box is removed from mania. That layout only works in lazer; osu!stable ignores it.
+**Lazer only:** this version was exported from osu!lazer with a custom gameplay layout that hides Aristia's framed health-bar box in mania. osu!stable ignores that layout, so stable players will still see the box in mania.
 
 ## Notes
 
