@@ -41,6 +41,8 @@ Same mania as **[dave]** (4K/5K/6K from JOSHUA0309, plus the 7K and 9K layouts),
 
 Aristia ships its own mania judgement images, so JOSHUA's are kept in `mania/judgements/` to keep the mania look identical.
 
+This version was exported from osu!lazer with a custom gameplay layout: Aristia's framed health-bar box is removed from mania. That layout only works in lazer; osu!stable ignores it.
+
 ## Notes
 
 - Some elements are shared across all modes and come from the standard skin (Selyu or Aristia): score/combo numbers, health bar, results screen, menus and hitsounds.
