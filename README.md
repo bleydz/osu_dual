@@ -59,6 +59,7 @@ This is a mixed skin. All original artwork belongs to its creators:
 - **Garin** — *Aristia Edit* as played by Varvalian (2019-06-25), built on *Aristia* with elements from various skins ([osuskins.net](https://osuskins.net/skin/vjUqKOh))
 - **prank855** and **Myuka - IceTea Edits** — original mania skin
 - **JOSHUA0309** — mania skin edit (4K/5K/6K layouts, notes, judgements)
+- **ppy / osu!** — the rainbow MAX "300" mania judgement in [dave] Aristia, from [osu-resources](https://github.com/ppy/osu-resources) (CC BY-NC 4.0)
 - **[bleydz](https://github.com/bleydz)** — combining the skins and the 7K / 9K layouts
 
 If you're one of the original authors and want something credited differently or removed, open an issue.
