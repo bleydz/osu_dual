@@ -6,10 +6,10 @@ Both use the same mania setup; they differ only in standard and the UI.
 | Skin | Standard + UI | Download |
 |---|---|---|
 | **[dave]** | Selyu v2.2 | [[dave].osk](./%5Bdave%5D.osk?raw=1) |
-| **[dave] Aristia** | Aristia Edit (Varvalian 2019-06-25) | [[dave] Aristia.osk](./%5Bdave%5D%20Aristia.osk?raw=1) |
+| **bleydz** | Aristia Edit (Varvalian 2019-06-25) | [bleydz.osk](./bleydz.osk?raw=1) |
 
 > [!NOTE]
-> **[dave] Aristia:** the framed box around the playfield is hidden in mania **on osu!lazer only**. It uses a lazer-only gameplay layout, so on osu!stable the box still shows in mania.
+> **bleydz:** the framed box around the playfield is hidden in mania **on osu!lazer only**. It uses a lazer-only gameplay layout, so on osu!stable the box still shows in mania.
 
 ---
 
@@ -37,7 +37,7 @@ Download a `.osk` from the table above and double-click it to import into osu!.
 ### Standard
 ![Standard](screenshots/4-standard.png)
 
-## [dave] Aristia
+## bleydz
 
 Same mania as **[dave]** (4K/5K/6K from JOSHUA0309, plus the 7K and 9K layouts), with standard and the UI from
 **Aristia Edit [Varvalian 2019-06-25]** in place of Selyu. The Aristia skin is unchanged; source: [osuskins.net/skin/vjUqKOh](https://osuskins.net/skin/vjUqKOh).
@@ -59,7 +59,7 @@ This is a mixed skin. All original artwork belongs to its creators:
 - **Garin** — *Aristia Edit* as played by Varvalian (2019-06-25), built on *Aristia* with elements from various skins ([osuskins.net](https://osuskins.net/skin/vjUqKOh))
 - **prank855** and **Myuka - IceTea Edits** — original mania skin
 - **JOSHUA0309** — mania skin edit (4K/5K/6K layouts, notes, judgements)
-- **ppy / osu!** — the rainbow MAX "300" mania judgement in [dave] Aristia, from [osu-resources](https://github.com/ppy/osu-resources) (CC BY-NC 4.0)
+- **ppy / osu!** — the rainbow MAX "300" mania judgement in bleydz, from [osu-resources](https://github.com/ppy/osu-resources) (CC BY-NC 4.0)
 - **[bleydz](https://github.com/bleydz)** — combining the skins and the 7K / 9K layouts
 
 If you're one of the original authors and want something credited differently or removed, open an issue.
